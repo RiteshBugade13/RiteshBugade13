@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Bugade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="center"> <img src="https://github.com/RiteshBugade13/RiteshBugade13/blob/main/ritugit.jpg"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiteshBugade13&label=Profile%20views&color=0e75b6&style=flat" alt="riteshbugade13" /> </p>
