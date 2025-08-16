@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Bugade</h1>
-<h3 align="center">🎯 Prefinal Year ENTC Student | Java Developer | Embedded Systems Enthusiast | Problem Solver | IoT & AI Learner from India</h3>
+<h3 align="center">🎯 Prefinal Year ENTC Student | Java Developer | Problem Solver | IoT & AI Learner from India</h3>
 
 <div align="center"> <img src="https://github.com/RiteshBugade13/RiteshBugade13/blob/main/ritugit.jpg"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
